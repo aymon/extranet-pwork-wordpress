@@ -1,0 +1,26 @@
+th#pwork_file_url,
+td.pwork_file_url{
+  width:100px;
+  text-align: center;
+}
+th#pwork_event_start,
+td.pwork_event_start,
+th#pwork_event_end,
+td.pwork_event_end{
+  width:100px;
+}
+#cmb2-metabox-pwork_project_status_metabox .cmb-th,
+#cmb2-metabox-pwork_project_members_metabox .cmb-th{
+  padding: 0 !important;
+}
+#cmb2-metabox-pwork_project_members_metabox .cmb-row,
+#cmb2-metabox-pwork_project_status_metabox .cmb-row {
+  margin:0 !important;
+}
+.regular-text {
+  width: 100%;
+}
+#cmb2-metabox-pwork_project_members_metabox .cmb2-metabox-description {
+  padding-bottom:0 !important;
+  font-style: italic;
+}
